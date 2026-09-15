@@ -79,4 +79,4 @@ method = "auto"
 
 # Flood fill only. How far it may reach into softer edges. Raise it if
 # background survives around the hair. Lower it if it eats the subject.
-k = 8
+k = 3.0
