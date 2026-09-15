@@ -10,7 +10,7 @@ cwd  = "~/Developer/portfolio"
 # title = "custom title bar text"   # default is "user: cwd"
 
 [image]
-src = "me.jpg"
+src = "me.png"
 
 # "auto" finds your face and sizes the box around it. It needs the extra:
 #   pip install "asciifetch[auto]"
@@ -79,4 +79,4 @@ method = "flood"
 
 # Flood fill only. How far it may reach into softer edges. Raise it if
 # background survives around the hair. Lower it if it eats the subject.
-k = 3.0
+k = 8

@@ -1,0 +1,59 @@
+
+ Maleck Ramirez Alvarez:~/Developer/portfolio$ fastfetch
+
+
+              ,-.        `*)vt;e4"e54e\///"e/V#;;3#V/;V\/;3;//ozt1;   ,-  ,-.           ._-
+                     _!_,:j#/\;3u2j2uV;CoC3o*Jj3//\Vu*yju2=znInFuz!i]7v);_~
+            .``    +:u##"aa4\C=s*fx^:Tsjjz*Yc1t1Y=J>x:tjIV\InnyfJuC3CnuuI#*7'`
+     .~`    _--  -r=a(($(4e\Ftx:x^cL]]vv7]|]i||?(ivc!^xYyIIFf+T:{{{YzCouo#CJt7_
+     '-`       ~<l3(rra\eIyJY^l}[]i?(r,??(,r)??)|i?|7v7{^^!^}7{1^^lL{YjCoC2fJ=]_
+             ~)tCea(X%?/JYx1^{[v|]?,ri7?\;;<;rivcl[|,r(]Llc7ii7l:cc!{c1tu##Iooo<'`
+    .~`     ,Ly#4X)e4aVz:[L7|,r\rr\r([7r;<<>><;r]l^lc7iv{c[7|i7LL[77v7}^+y3Ve"##J"
+    '-`    ~cjo\4/F*zs^[]?(,*;\/"/(((vL7(\\\/\,\/;/(}c[[7|((?[!L]]|(?|[!xx:x*o\/I1=~
+          `|nV\e\u2nfx!7()),r,)\***r,?}++{],,]{{]/;"(]vc[]|(|c7)((r(i?|[LLlll12;V;ut]-
+         `;s;/Cz2unC>lLir/(77|]i(i7],)]^++}??v}c7?r){{|v7][}T+[|[7??i|i|7!yns1YFV"V3ot>`
+       '/}J#eVJxTtfTc7|r*\iLx!77[}cL:fY^l}[cfJT{[77?]7vv|7}vi?(vTTL?|v]|]L!x><Yu///n>t<<
+      ~/<#4)$VFt!l!!c[7(*;/]^{,/((v<#$Ze3nF=YyVIjx}|7^x<1[(/*r))(||iii()|}^x+<fjnV4eu=C*(~
+     `'?tea)ZeoJx^cvv|)\;*\(i?/;/7t4cqqdRQ@S>>5Se>L|7T=C;n2f:L|?,rrrr)]L}}7{:1xtje$)r"/;2[_
+      -lC55r$ejJs>{]i,r)?7c[(r,,iYI5id89GA$#zYT=n;n:}tjjF\XZ/s}(((r";\]1f+}L!:1t*#5)ae#>YT_
+     `+!o)X$a;Fs+l]]cL](?]vv7v?72ElO9bl{ika"Saytnez:zZAEcp]]GZf[[i\//\(vL1{7{x>t=Fe";/#F>r-
+    ~(fu#e5"3uz<!7?)|[]?(,(7^^{t)KDHw2V%MCfLc]]9anFrp1gCJgRLmHky^[il:7()([L]c+t>>=jn/ae#x^
+    ++II#;;o2s1{7(,r)i?((?v{>C"PdzFSbDBBNRD@0MQY23V$ZS006%n3#Q]I*>T>YL??|v]vl1!l+zs=V544>!
+    !:3\\oFyj2T[|??),r,(|lzn#kHtWhpmHNWWWWWWWWWWWWWQHqwAhkS53B8C#/j<lvi((,)(i]vv}^*FC/\Vz7+
+    ~?*#Iy2o2+}i)\\rr\?[lyZPGL@wvO{[{vRfu9w&BQQWQBBDEjsK[E6ZeV3yJzzJ>l?**\/\,r,ivl<2;\/3ou!:      Maleck Ramirez Alvarez
+    ^]<FIu*yyY:{|\r||(|:fa7q{|q]cG0EAPXZS[tZmNWQgHb8f{Sa"aZP69kh)VF=f!i?i?,)r*r?L:tCVV#oFy:+      ──────────────────────
+  .:r1s3e#*fz=t:xTL|?,(^JIc@ojj3yj9Z9jy##3IkdgWBKU5Jt11NY34ja3JoozHhoYcv,rr,,(??]lf3C2Fjjy{,
+ -'vT*no#3ut^c[7:f:}L?iYuem9ASInMfzzRmxYy%8AdgWWmZ#YYoee2sRH{KLlTffRGa2{\;/)((7^{}:fzj*=n2:=`     Name         Maleck Ramirez
+ '-.\>uFjFjfl}cc{}|7[?[3[B9hS4gDT1%F=axCC5XwqDQRGW2fJ#250vI>y0vi8Kst&bSz|"r()ril{v]LfInCo2+"`     Role         Self-taught Full Stack Developer
+    `\=V\oj*t<^7]??i??*KWUbbwZau$Aas&Y5SAbqEqHRmXjJ2yjWZhITO&eeslDzJ#zdZT)*"r?vlY1!:tu3/=i_`      Location     Lima, Peru
+    `vCe5\2*ytlv]]?,,7/YXd&D&KKmdqdK&mmDg&@ODBNmkIa3u9kkSZ8ZV%%IV5IWaescj7,r?[^+ss*2yyn#{~
+    '}I\/4;3Cf^l]()(|!"BEKMRQQQQQWWWWWWWBRMMgWWHAI4%I$UbdO@@@ddbqEwZW3B{I}(|LL}clxf2ju;\+!        Focus        Full-stack software development & process automation
+     !lo\e)rn+lc[v[7[:#TUHQWWWWWWWWWWQWWWQHmDQWDGVnn46UODRRRgMDD&@GXVFCKC[]L!!{{!1Ysu"\t'         Mission      Building end-to-end solutions & streamlining deployment workflows
+      .{3\rro*<TY<t^{T2bkBWWWWWWWWWWWWWWWDbKRQBRmAIeCjAmMNQQQNRDKdEX$I3{zL[}{^<z=<tyC3j}.
+       '*t\5e4\2JJ<x+ynUZWWWWWWWWWWWWWWWWDDWWWWWgpSIF3ZOgRgBWWBgHdEPZZji=<fY1YsoI*Jn#J\,`         Status       Open to Internships and job opportunities
+        -rs#e5\3j>:J\6dN$BWWWWWWWWWWWWWWWMb0kOKp8gDYFC3ERNRNQQRDKqAS8w%i"ZZz1tJzCoIoY".  `+'
+          !|<Fnn#on#574pdQWWWWWWWWWWWWWWQKS4V06FYmK@Yy6qDNNNgMDKdUPZ0G5wp8C}7+nojt|+.     -       Email        maleckadri088@gmail.com
+            --*Ls#\nf2XbTwWWWWWWWWWWWWWWWRDHDDOqppk$ZXEqOKDHKmdpEk08kUzazlivTn#ofr.
+              .~l#;yJssfnTBQWWWWWWWWWWQBRRMDHHmOHHbwhkkhUEpqqpEAkSS0U8%(*?:yIIz:)_,.       -^
+               =J;o#VVV3FZ9WBWWWWWWWWBBBBgK@qqUwXS$559ZPXkPkkXk0Z$ZXdJzr)}z;;n+>           -:
+               ~LJyI;InJx1]mWQWWWWWWQM@h9a3y33MCgNs11x1NfFI66ZZ6V98pS8+i|To3usL_        --~
+             -^-."}>3"4"Iu;mOWQQWWWQgOhIe#nW$0SV555WFCT&tCn4I%IIIZwV6^{xz3j<v+`         '_`
+  `:_        `~. ',,\tI;;"#F[AWWQQNgD&K@pX888Z$V%%WaeooMFjaFnna46A68+Y**^*-~           `!.
+  `_`                ,LC//IC\THWQRDm@@dqpw0VjyJCJJeee3najFMJCJn9hE2(o"n]-
+                      ,ifoI3axG&H&KmqGEUwUUwUGEGEUwk0Z6%FM#CJ34%j5s(If(_         `::`
+   `:~                  `,<zVmUKbqGpd@@OKHgRQWWWNH@bGwXZ%jnnyosDt4Yrv_            ^^
+   `_`                    -,?pbDO@qwXXGdKDggggM&mdqEwkZIjn#Qmd|vsIeu'             --
+                  ``       ;]@WDKHHKpk88PXAUEGpEUAXS5nJBT@Kqb}OlNn$oj-
+                  .-.    -)XpWQgHMggDOqwkZ5WFnFFuMCB1lHK|}{}Kw@1YeXQB=;`
+                   `   `(FrtQQWNHMgRRMKdGEh8I3gs@wK{{{|Ovwvw@xtYY%DWUU3f<
+                     '(o0APVWQWWRMRBBNgmbGGEwX8%MYsxD@D&R1tBoC2o9RWWBR\PZY;-
+                 ..;ln%UPehXWQWWWQBQWWQg&dbqGEAP6IFuMJ22Mn4%445GQWQWQB3ur$\s|_~
+ `          ..r^<=#Z6P?(e3%0WQQNNBBNNRRNRMHKK@bUhk0865I5ZSZ$k@NWBBQWNsnJjIV"eVFf:i<=:
+ '`    .!<[+2I\e\\4a4ee/;o4jWQWWWWWWWWWWMMMD&Km@qGUAk00PSAmWWWWWWWWWKKytJ2jjjuCIV\\\3tcr_~
+  `!*}fCe5ae#Cjj3;;VVV;I3o3RBW5KddddddmPWWH&Km@dbGEwAXhGQHZVII%I%WpW9Ss>fJ=z*=Js=2uoVear5V2sx
+ n\XPhZe#u2zz*jI#;###IIoCnCibW)         "FNDKO@dqqGUAGKd[|        ZBf/=f>>tffftt>sJy2juo;er)h
+ 9)"3u2zzz*zzF33333o3onFFnC)WW%          i&WBRHK&KK&RBWm          5gx3yzJ><>>>YYY<>f*22FFuuC;
+ Cjy22yyyzy**yuoo333CFFjuoo\sW%          [KWRNWWWWWWWBWw          ZK}Cj22y=t><<+++Y+tzjFunCCI
+
+
+ Maleck Ramirez Alvarez:~/Developer/portfolio$
