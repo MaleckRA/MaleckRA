@@ -10,7 +10,7 @@ cwd  = "~/Developer/portfolio"
 # title = "custom title bar text"   # default is "user: cwd"
 
 [image]
-src = "headshot.jpg"
+src = "me.jpg"
 
 # "auto" finds your face and sizes the box around it. It needs the extra:
 #   pip install "asciifetch[auto]"
@@ -19,7 +19,7 @@ src = "headshot.jpg"
 # of your image, not pixels, each between 0 and 1. So [0.28, 0.02, 0.76, 0.45]
 # means "start 28% across and 2% down, end 76% across and 45% down".
 #
-# Run `asciifetch crop --src headshot.jpg` to draw the box on your photo.
+# Run `asciifetch crop --src me.jpg` to draw the box on your photo.
 portrait_crop = "auto"     # head, neck and collar
 avatar_crop   = "auto"     # square head and shoulders
 
@@ -75,7 +75,7 @@ yellow = "#e0a43c"
 [mask]
 # "auto" uses GrabCut when the extra is installed, and the bright-background
 # flood fill when it is not. "flood" and "grabcut" force one of them.
-method = "auto"
+method = "flood"
 
 # Flood fill only. How far it may reach into softer edges. Raise it if
 # background survives around the hair. Lower it if it eats the subject.
