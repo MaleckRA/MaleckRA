@@ -1,6 +1,6 @@
 ![Maleck Ramirez Alvarez](https://github.com/user-attachments/assets/4d78013d-542b-49af-94aa-4f64935b23c2)
 
-# Hola, soy Maleck 👋
+# Hi, I'm Maleck 👋
 
 <img src="fastfetch.svg" width="100%" alt="Profile ASCII Banner" />
 
@@ -10,7 +10,7 @@
 
 
 
-## 🤝 My Favorite Tools
+## 🛠️ My Favorite Tools
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,mysql,react,docker,aws,azure,git,github,githubactions,gitlab)](https://skillicons.dev)
 
