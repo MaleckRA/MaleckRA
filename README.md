@@ -2,11 +2,7 @@
 
 # Hola, soy Maleck 👋
 
-💻 Self-taught Full Stack Developer  
-📚 Software Engineering student at UNMSM  
-🎯 Strong focus on full-stack software development and process automation  
-⚡ Dedicated to building end-to-end solutions while streamlining delivery and deployment workflows  
-🤝 Open to Internships and job opportunities
+<img src="fastfetch.svg" width="100%" alt="Profile ASCII Banner" />
 
 ## 🤝 Connect with me
 
